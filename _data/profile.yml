@@ -1,18 +1,20 @@
-primary_name: "Your Name"
+primary_name: "Mohamed \n EL HADDAD"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Mohamed \n EL HADDAD"
 
 positions:
-- name: Title or Position
+- name: Software Engineer
+  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 - name: Affiliation Name
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "haddad.py@gmail.com"
 # cv_link: link-to-your-cv-file
 gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
+github: github.com/haddad_me
 twitter: your_twitter_id  # Do not include the '@' symbol
+linkedin: linkedin.com/in/haddad_me # This is an example, replace it with your own LinkedIn ID
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
@@ -33,15 +35,15 @@ portrait_caption: >-
 
 education:
 - name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/A225872888139677.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
+    Department of Computer Science <br/>
+    Master. Student
+  date: Sep. 2024 - Jul. 2026
 - name: Peking University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/A225872888139677.png
   position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Sep. 2021 - Jul. 2024
 
 # experience:
 # - name: Peking University
